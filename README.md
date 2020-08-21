@@ -4,13 +4,13 @@ I'm studying computer science at a German university and work on open source pro
 
 🔭 Working on some static CMS web-hosting related projects that are not public yet - stay tuned if you're interested.
 
-⚡ Languages: Go, JavaScript (+ Frameworks like React, Angular, Elektron), TypeScript, Python, C, C++, Java, Kotlin, Lua, PHP, HTML/CSS, ...
+⚡ Languages: Go, JavaScript (+React, Angular, Elektron, …), TypeScript, Python, C, C++, Java, Kotlin, Lua, PHP, HTML/CSS, …
 
-🚀 Technologies: Continuous Integration (GitHub Actions, GitLab CI, Travis, Jenkins), Docker, LXC, Virtualization, ...
+🚀 Technologies: Continuous Integration (GitHub Actions, GitLab CI, Travis, Jenkins), Docker, LXC, Virtualization, …
 
 💾 Operating Systems: Linux 🐧❤️, Windows, macOS, Android
 
-✨ Interests: Programming (obviously), Electronics (Microcontrollers, Aduino, ...), 3D Printing, Cycling 🚲🌳
+✨ Interests: Programming (obviously), Electronics (Microcontrollers, Aduino, …), 3D Printing, Cycling 🚲🌳
 
 💬 Pronouns: he/him
 
