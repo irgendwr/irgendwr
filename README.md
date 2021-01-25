@@ -4,16 +4,14 @@ I'm studying computer science at a German university and work on open source pro
 
 🔭 Working on some static CMS web-hosting related projects that are not public yet - stay tuned if you're interested.
 
-⚡ Languages: Go, JavaScript (+ React, Angular, Electron, …), TypeScript, Python, C, C++, Java, Kotlin, Lua, PHP, HTML/CSS, …
+⚡ Languages: Go, JavaScript, TypeScript, Python, C, C++, Java, Kotlin, Lua, PHP, HTML/CSS, …
 
 🚀 Technologies: Continuous Integration (GitHub Actions, GitLab CI, Travis, Jenkins), Docker, LXC, Virtualization, …
 
 💾 Operating Systems: Linux 🐧❤️, Windows, macOS, Android
 
-✨ Interests: Programming (obviously), Electronics (Microcontrollers, Aduino, …), 3D Printing, Cycling 🚲🌳
+✨ Interests: Programming (obviously), Electronics (Microcontrollers, Arduino, …), 3D Printing, Cycling 🚲🌳
 
 💬 Pronouns: he/him
 
 ![GitHub Statistics](https://github-readme-stats.vercel.app/api?username=irgendwr&count_private=true&show_icons=true)
-
-*Additional Statistics: [sourcerer.io/irgendwr](https://sourcerer.io/irgendwr)*
