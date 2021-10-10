@@ -12,6 +12,6 @@ I'm studying computer science at a German university and work on open source pro
 
 ✨ Interests: Programming (obviously), Electronics (Microcontrollers, Arduino, …), 3D Printing, Cycling 🚲🌳
 
-💬 Pronouns: he/him
+💬 Pronouns: he/any
 
 ![GitHub Statistics](https://github-readme-stats.vercel.app/api?username=irgendwr&count_private=true&show_icons=true)
