@@ -1,15 +1,11 @@
 ### Hi there 👋
 
-I'm currently working for Adobe in the Lightroom iOS team, but also work on open source projects in my spare time. Some of my most popular projects include [TelegramAlert](https://github.com/irgendwr/TelegramAlert) - A Graylog Plugin that adds Telegram Notifications and my [scripts for the SinusBot](https://github.com/irgendwr/sinusbot-scripts).
+I'm currently working for Adobe in the [Lightroom](https://www.adobe.com/products/photoshop-lightroom.html) iOS team, but also work on open source projects in my spare time. Some of my most popular projects include [TelegramAlert](https://github.com/irgendwr/TelegramAlert) - A Graylog Plugin that adds Telegram Notifications and my [scripts for the SinusBot](https://github.com/irgendwr/sinusbot-scripts).
 
-⚡ Languages: JavaScript, TypeScript, Rust, Swift, C, C++, Go, Python, Java, Kotlin, Groovy, Lua, PHP, HTML/CSS, …
+⚡ Languages: JavaScript, TypeScript, Rust, Swift, C, C++, Go, Python, Java, Kotlin, Lua, and more…
 
-🚀 Technologies: CI/CD (GitHub Actions, GitLab CI, Travis, Jenkins), Docker, LXC, Virtualization, …
+🚀 Technologies: CI/CD (GitHub Actions, GitLab CI, Jenkins), Docker, LXC, Virtualization, …
 
-💾 Operating Systems: Linux 🐧❤️, Windows, macOS, Android, iOS
+💾 OS: Linux 🐧❤️, Windows, macOS, Android, iOS
 
-✨ Interests: Programming (obviously), Electronics (Microcontrollers, Arduino, …), 3D Printing, Cycling 🚲🌳
-
-💬 Pronouns: he/any
-
-![GitHub Statistics](https://github-readme-stats.vercel.app/api?username=irgendwr&count_private=true&show_icons=true)
+💬 Pronouns: <span style="text-decoration: underline dotted;" title="I'm used to he/him, but I don’t care">he/any</span>
